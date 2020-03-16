@@ -1,0 +1,18 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+h4{text-align: justify; font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight: 500px;}
+h3{text-align: justify; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-weight: 600px;color: lightgreen;}
+p{font-family: cursive; font-weight: 500px;}
+
+
+.bg-color{
+    background-color: palevioletred;
+}
+.bg-color1{
+    background-color: indianred;
+
+}
+.image-float{
+
+    border-color: lightseagreen;
+    float: left;
+}
